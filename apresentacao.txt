@@ -1,0 +1,3 @@
+Nome: João Victor Cotta Romão
+Curso: Técnico em Informática integrado ao Ensino Médio
+Apresentação: Sou estudante do IFMG Campus Ouro Branco e estou aprendendo programação, desenvolvendo com Git e GitHub
